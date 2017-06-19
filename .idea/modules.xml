@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CZTabBar.iml" filepath="$PROJECT_DIR$/CZTabBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_CZTabBar/Lib_CZTabBar.iml" filepath="$PROJECT_DIR$/Lib_CZTabBar/Lib_CZTabBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simples/simples.iml" filepath="$PROJECT_DIR$/simples/simples.iml" />
+    </modules>
+  </component>
+</project>
